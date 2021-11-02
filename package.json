@@ -1,0 +1,23 @@
+{
+  "name": "E-commerce-microservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdhamHaisami/E-commerce-microservices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdhamHaisami/E-commerce-microservices/issues"
+  },
+  "homepage": "https://github.com/AdhamHaisami/E-commerce-microservices#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
